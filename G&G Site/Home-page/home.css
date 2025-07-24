@@ -26,8 +26,8 @@ html, body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url('https://firebasestorage.googleapis.com/v0/b/vid-1-60067.firebasestorage.app/o/PXL_20250425_140820552.jpg1.jpg2.jpg?alt=media&token=3e5ff452-3828-4f12-86f5-35b7c7ce75c7');
-  background-size: cover;
+  background-image: url('https://firebasestorage.googleapis.com/v0/b/vid-1-60067.firebasestorage.app/o/Screenshot%202025-07-24%20133835.png?alt=media&token=f56007a4-87fb-4bdc-93b6-b4f55f8faf35');
+  background-size: 1300px;
   background-position: center;
   z-index: 1;
 }
@@ -39,10 +39,9 @@ html, body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(252, 78, 110, 0.7);
+  background-color: rgba(252, 78, 110, 0.9);
   z-index: 2;
 }
-
 #banner .GG h1 {
   position: relative;
   color: white;
