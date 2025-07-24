@@ -300,7 +300,7 @@ h1 {
     position: relative;
     top:385px;
     align-items: center;
-    text-align: justify; /* Add this line */
+    text-align: center; /* Add this line */
     font-weight: bold;
     font-family: 'Space Mono', monospace;
     font-size: 1.3em;
