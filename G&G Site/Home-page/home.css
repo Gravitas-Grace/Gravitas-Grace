@@ -337,3 +337,19 @@ h1 {
   color: #858585;             /* Change to any color you want */
   font-weight: bold;       /* Optional: make it bold */
 }
+.link-container {
+  display: flex;
+  justify-content: center;
+  gap: 30px; /* Space between links */
+}
+
+@media (max-width: 600px) {
+  .link-container {
+    flex-direction: column;
+    align-items: center;
+    gap: 10px; /* Less space when stacked */
+  }
+  .link-container h1 {
+    margin: 0;
+  }
+}
